@@ -2,11 +2,11 @@
 <h3 align="center">OFDL Robotics Lab, Coach</h3>
 <h3 align="center">A passionate web developer from Taiwan</h3>
 
-- 🔭 I’m currently working on **LEGO EV3, SPIKE 3rd party sensors**
+- 🔭 I’m currently working on **LEGO® MINDSTORMS® EV3, SPIKE 3rd party sensors**
 
-- 🌱 I’m currently learning **Laravel, react**
+- 🌱 I’m currently learning **Laravel, Vue.js**
 
-- 👍 I'm still good at: **Windows Server, Windows PE, LEGO(?**
+- 👍 I'm still good at: **Windows Server, Windows PE, LEGO® MINDSTORMS®
 
 - 👨‍💻 All of my projects are available at [https://github.com/a10036gt](https://github.com/a10036gt)
 
