@@ -99,9 +99,8 @@
 
 ###    
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=a10036gt&rank_icon=github&show_icons=true&count_private=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats-fast.vercel.app/api?username=a10036gt&rank_icon=github" align="center" /></div>  
 <br/>  
-
   
 
 <br/>  
