@@ -33,7 +33,7 @@
 </div>  
 <br/> 
 
-- 🔭 I’m currently working on LEGO® EV3/SPIKE 3rd party sensors, MATRIX® Software developing.  
+- 🔭 I’m currently working on LEGO® EV3/SPIKE 3rd party sensors, Robotics Software developing.  
   
 
 - 🌱 I’m currently learning Vue.js  
